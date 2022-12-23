@@ -1,7 +1,7 @@
 
 Coding@HSG Group project
 
-Step 1: Read file named READ ME
+Step 1: Read file named READ ME.pdf
 
 Step 2: Download Phyton Code and CSV File
 
